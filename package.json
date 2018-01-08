@@ -1,0 +1,32 @@
+{
+  "name": "marcosnavarro.net",
+  "version": "0.1.0",
+  "description": "Sitio web de Marcos Navarro Pérez - Desarrollador de aplicaciones informáticas tanto web como móvil.",
+  "author": {
+    "email": "marcosnpcogollos@gmail.com",
+    "name": "Marcos Navarro Pérez",
+    "url": "https://marcnava13.github.io/marcosnavarro/"
+  },
+  "repository": {
+    "url": "https://github.com/marcnava13/marcosnavarro.git",
+    "type": "git"
+  },
+  "private": true,
+  "homepage": "https://marcnava13.github.io/marcosnavarro/",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
