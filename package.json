@@ -5,14 +5,14 @@
   "author": {
     "email": "marcosnpcogollos@gmail.com",
     "name": "Marcos Navarro Pérez",
-    "url": "https://marcnava13.github.io/marcosnavarro/"
+    "url": "https://marcosnavarro.net/"
   },
   "repository": {
     "url": "https://github.com/marcnava13/marcosnavarro.git",
     "type": "git"
   },
   "private": true,
-  "homepage": "https://marcnava13.github.io/marcosnavarro/",
+  "homepage": "https://marcosnavarro.net/",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "node-sass-chokidar": "0.0.3",
